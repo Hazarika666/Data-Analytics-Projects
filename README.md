@@ -1,9 +1,9 @@
 # Data-Analytics-Projects
 
 This repository is mainly for projects I have done under the influence of :
-'Self learning activities' by searching and implementing datasets and its analysis, 
-Under Skillslash Academy's accalaimed course - Data Science with Artificial Intelligence & Machine Learning which spans for a period of 12 months,
-And, under Udacity's Data Analysis Nanodegree course syllabus roof.
+* 'Self learning activities' by searching and implementing datasets and its analysis, 
+* Under Skillslash Academy's accalaimed course - Data Science with Artificial Intelligence & Machine Learning which spans for a period of 12 months,
+* And, under Udacity's Data Analysis Nanodegree course syllabus roof.
 
 Skillslash Academy & Udacity's online Data Science and Data analyst program prepares me for a career as a industry ready data analyst by helping me learn to clean and organize data, uncover patterns and insights, draw meaningful conclusions, and clearly communicate critical findings. I am developing proficiency in Python and its data analysis libraries (Numpy, pandas, Matplotlib) and SQL as I build a portfolio of projects .
 
