@@ -11,11 +11,11 @@ Skillslash Academy & Udacity's online Data Science and Data analyst program prep
 
 Subjects Covered in these portfolio of projects :
 
-Anaconda
-Jupyter Notebook
-Data Analysis Process
-NumPy for 1 and 2D Data
-Pandas Series and Dataframes
+* Anaconda
+* Jupyter Notebook
+* Data Analysis Process
+* NumPy for 1 and 2D Data
+* Pandas Series and Dataframes
 
 # Project 1: Explore Weather Trends with weather forecast data
 
@@ -29,18 +29,18 @@ I was provided a dataset reflecting data collected from an experiment. I used st
 
 Subjects Covered:
 
-Probability
-Conditional Probability
-Binominal Distribution
-Sampling Distribution and Central Limit Theorem
-Descriptive Statistics
-Inferential Statistics
-Confidence Levels and Intervals
-Hypothesis Testing
-T-tests and A/B test
-Regression
-Multiple Linear Regression
-Logistic Regression
+* Probability
+* Conditional Probability
+* Binominal Distribution
+* Sampling Distribution and Central Limit Theorem
+* Descriptive Statistics
+* Inferential Statistics
+* Confidence Levels and Intervals
+* Hypothesis Testing
+* T-tests and A/B test
+* Regression
+* Multiple Linear Regression
+* Logistic Regression
 
 #Project 3: Analyze A/B Test Results with company ab_data.csv
 
@@ -51,19 +51,19 @@ Using Python, I gathered data from a variety of sources, assess its quality and 
 Subjects Covered:
 
 GATHERING DATA:
-1: Gather data from multiple sources, including gathering files, programmatically downloading files, web-scraping data, and accessing data from APIs
-2: Import data of various file formats into pandas, including flat files (e.g. TSV), HTML files, TXT files, and JSON files
-3: Store gathered data in a PostgreSQL database
+* Gather data from multiple sources, including gathering files, programmatically downloading files, web-scraping data, and accessing data from APIs
+* Import data of various file formats into pandas, including flat files (e.g. TSV), HTML files, TXT files, and JSON files
+* Store gathered data in a PostgreSQL database
 
 ASSESSING DATA
-1: Assess data visually and programmatically using pandas
-2: Distinguish between dirty data (content or “quality” issues) and messy data (structural or “tidiness” issues)
-3: Identify data quality issues and categorize them using metrics: validity, accuracy, completeness, consistency, and uniformity
+* Assess data visually and programmatically using pandas
+* Distinguish between dirty data (content or “quality” issues) and messy data (structural or “tidiness” issues)
+* Identify data quality issues and categorize them using metrics: validity, accuracy, completeness, consistency, and uniformity
 
 CLEANING DATA
-1: Identify each step of the data cleaning process (defining, coding,and testing)
-2: Clean data using Python and pandas
-3: Test cleaning code visually and programmatically using Python
+* Identify each step of the data cleaning process (defining, coding,and testing)
+* Clean data using Python and pandas
+* Test cleaning code visually and programmatically using Python
 
 #Project 4 : Data Wrangle and Analyze with Tweet WeRateDogs data
 
@@ -73,10 +73,10 @@ Collect data from different sources and assess data visually and programmaticall
 
 Subjects Covered:
 
-1: Univariate exploration of data ( histogram , bar charts , Use axis limits and different scales )
-2: Bivariate exploration of data ( scatter plots , clustered bar charts , violin and bar charts , faceting )
-3: Multivariate exploration of data ( encodings , plot matrices , feature enginnering )
-4: Explanatory Visulizations ( story telling with data , polish plots , create slide deck )
+* Univariate exploration of data ( histogram , bar charts , Use axis limits and different scales )
+* Bivariate exploration of data ( scatter plots , clustered bar charts , violin and bar charts , faceting )
+* Multivariate exploration of data ( encodings , plot matrices , feature enginnering )
+* Explanatory Visulizations ( story telling with data , polish plots , create slide deck )
 
 # Project 5: Data Visulization with Diamond Data
 
